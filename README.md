@@ -7,8 +7,8 @@ I'm a developer with a strong interest in data structures, algorithms, and C++ p
 - **Areas of Interest**: Data Structures, Artificial Intelligence, Web Development
 
 ### Featured Projects
-- [Data Structures in C++]([https://github.com/seu-usuario/nome-do-repositorio](https://github.com/alissonbernadino/Estruturas-de-Dados)): Implementation of various data structures and algorithms.
-- [Another Project]([https://github.com/seu-usuario/outro-repositorio](https://github.com/alissonbernadino/ProjetoBancoCompleto-em-java)): Brief description of this project.
+- [Data Structures in C++](https://github.com/alissonbernadino/Estruturas-de-Dados): Implementation of various data structures and algorithms.
+- [Another Project](https://github.com/alissonbernadino/ProjetoBancoCompleto-em-java): Brief description of this project.
 
 ### Connect with Me
 - [Email](mailto:asb3@cin.ufpe.br)
