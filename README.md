@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello! I'm ALISSON BERNADINO 👋
 
-<!--
-**alissonbernadino/alissonbernadino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer with a strong interest in data structures, algorithms, and C++ programming, JAVA and Python. Currently, I'm working on projects that involve binary trees, dynamic queues, stacks, graphs, and Dijkstra's algorithm.
 
-Here are some ideas to get you started:
+### Skills
+- **Languages**: C++, Python, JavaScript
+- **Areas of Interest**: Data Structures, Artificial Intelligence, Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- [Data Structures in C++]([https://github.com/seu-usuario/nome-do-repositorio](https://github.com/alissonbernadino/Estruturas-de-Dados)): Implementation of various data structures and algorithms.
+- [Another Project]([https://github.com/seu-usuario/outro-repositorio](https://github.com/alissonbernadino/ProjetoBancoCompleto-em-java)): Brief description of this project.
+
+### Connect with Me
+- [Email](mailto:asb3@cin.ufpe.br)
